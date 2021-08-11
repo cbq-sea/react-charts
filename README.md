@@ -25,3 +25,6 @@ Build library via `father-build`,
 ```bash
 $ npm run build
 ```
+
+
+[组件文档说明地址](https://cbq-sea.github.io/doc)
